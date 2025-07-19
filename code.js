@@ -18,7 +18,7 @@ if (isDesktop) {
   });
 
   gsap.to(".hero-left-side", {
-    y: "-10vh",
+    y: "-25vh",
     ease: "none",
     scrollTrigger: {
       trigger: ".section-about",
