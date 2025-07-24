@@ -1,4 +1,3 @@
-<script>
 const canvasEl = document.getElementById("canvas-b");
 const imgInput = document.querySelector("#image-selector-input");
 
